@@ -1,6 +1,6 @@
 - 👋  Olá, me chamo Murilo Augusto Miranda, sou estudante de Ciências da Computação na Unip (Chácara Santo Antônio).
 - 👀  Estou atualmente aprendendo Python, Java, Front-end.
-- 📫  Para entrar em contato comigo -> muriloaugustom@hotmail.com.
+- 📫  Para entrar em contato comigo -> muriloamiranda14@gmail.com.
 
 <div>
   <a href="https://github.com/MuriloAMiranda">
